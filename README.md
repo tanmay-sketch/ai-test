@@ -1,2 +1,2 @@
-# ai-test
-my repo for the AI club 
+# AI TEST
+This is the repo for storing the Projects worked on in the AI Club
